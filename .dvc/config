@@ -2,4 +2,4 @@
     autostage = true
     remote = gdriver-storage-sep03
 ['remote "gdriver-storage-sep03"']
-    url = https://drive.google.com/1MjU1wJMDWiom0yja9huU5lUXIINSB5rk
+    url = gdrive://1MjU1wJMDWiom0yja9huU5lUXIINSB5rk
